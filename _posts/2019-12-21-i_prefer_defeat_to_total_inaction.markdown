@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I prefer defeat to total inaction."
-date:       2019-12-21 08:46:30 +0000
+date:       2019-12-21 03:46:31 -0500
 permalink:  i_prefer_defeat_to_total_inaction
 ---
 
