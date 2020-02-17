@@ -1,10 +1,9 @@
 ---
 layout: post
-title:      "What a Ride - My CLI Data Gem Project"
-date:       2020-02-17 03:57:24 +0000
+title:      "Pride Goes Before Destruction"
+date:       2020-02-16 22:57:25 -0500
 permalink:  what_a_ride_-_my_cli_data_gem_project
 ---
-
 
 With over two weeks to complete my first project - a CLI Data Gem - I jumped in early with the intention of making a complex interface that I could eventually incorporate into another idea I had. I intended to have my CLI scrape multiple job boards. The problem I ran into, was I couldn't scrape everything the way I wanted to. So I defaulted to indeed.com since their website allowed for flexible search terms which would allow my CLI to have greater functionality.
 
